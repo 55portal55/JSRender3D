@@ -1,3 +1,6 @@
+
+;;; Author: Rick Miskowski - www.richardmiskowski.com
+
 (define (render)
   (init-globals)
 
